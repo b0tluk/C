@@ -1,4 +1,1 @@
-C
-=
-
-Codes
+Aqui estarei postando meus codigos etc, coisas que envolve C...
